@@ -17,7 +17,9 @@ Acts - [Policy and Legal Advocacy Centre](https://placng.org/i/acts/)
 
 The preprocessed dataset in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-license. See [LICENSE](LICENSE) for the full text.
+license.
+
+See [LICENSE](LICENSE) for the full text.
 
 This license applies to the original contributions in the dataset,
 including its preprocessing and structuring. It does not claim
