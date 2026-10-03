@@ -20,7 +20,7 @@ nigerian-law-corpus/
     └── processed/           # cleaned text/JSON, split by section
 ```
 
-### Folders and files
+## Folders and files
 
 | Path | Description |
 |---|---|
