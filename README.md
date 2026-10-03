@@ -30,9 +30,9 @@ nigerian-law-corpus/
 | `LICENSE` | CC BY 4.0 license text |
 
 ## Sources
-Constitution - [Food and Agricultural Organisation ](https://faolex.fao.org/docs/pdf/nig164561.pdf)
+**Constitution** - [Food and Agricultural Organisation ](https://faolex.fao.org/docs/pdf/nig164561.pdf)
 
-Acts - [Policy and Legal Advocacy Centre](https://placng.org/i/acts/)
+**Acts** - [Policy and Legal Advocacy Centre](https://placng.org/i/acts/)
 
 ## License
 
