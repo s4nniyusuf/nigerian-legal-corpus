@@ -29,6 +29,10 @@ nigerian-law-corpus/
 | `metadata.json` | One entry per document with its title, year, source, and version date |
 | `LICENSE` | CC BY 4.0 license text |
 
+## Processing method
+
+The processed data was produced by extracting text from the source PDFs. Where a PDF did not contain machine-readable text, OCR (optical character recognition) was used.
+
 ## Sources
 **Constitution** - [Food and Agricultural Organisation ](https://faolex.fao.org/docs/pdf/nig164561.pdf)
 
