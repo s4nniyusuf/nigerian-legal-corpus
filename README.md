@@ -1,6 +1,7 @@
 # nigerian-law-corpus
 A curated corpus of Nigerian legal texts, including the 1999 Constitution, selected Acts and Lagos tenancy law cleaned and structured for information retrieval, RAG, semantic search, and legal NLP.
 
+
 ## Repository Structure
 
 ```
@@ -19,6 +20,7 @@ nigerian-law-corpus/
 | `processed/` | Cleaned and structured text, ready for RAG and NLP use |
 | `LICENSE.md` | CC BY 4.0 license text |
 
+
 ## Processing method
 
 The processed data was produced by extracting text from the source PDFs.
@@ -31,6 +33,7 @@ The processed data was produced by extracting text from the source PDFs.
 **Criminal Code Act** - [Policy and Legal Advocacy Centre](https://placng.org/i/acts/) (*here the schedule is the criminal code*)
 
 **Lagos Tenancy law** - [Lagos Ministry of Justice](https://lagosministryofjustice.org/)
+
 
 ## License
 
