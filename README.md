@@ -2,25 +2,22 @@
 A curated corpus of Nigerian legal texts, including the 1999 Constitution, selected Acts and Lagos tenancy law cleaned and structured for information retrieval, RAG, semantic search, and legal NLP
 
 ## Repository Structure
- 
+
 ```
 nigerian-law-corpus/
-├── README.md
-├── LICENSE                  # CC BY 4.0 license
-├── metadata.json            
-└── data/
-    ├── raw/                 # original files exactly as downloaded (PDFs)
-    └── processed/           # cleaned text/JSON, split by section
+|-- README.md
+|-- LICENSE.md                 # CC BY 4.0 license
+|-- raw/                       # original source PDFs
+└── processed/                 # cleaned, structured JSONL datasets
 ```
 
 ## Folders and files
 
 | Path | Description |
 |---|---|
-| `data/raw/` | Original source files, unmodified, for traceability |
-| `data/processed/` | Cleaned and structured text, ready for RAG and NLP use |
-| `metadata.json` | One entry per document with its title, year, source, and version date |
-| `LICENSE` | CC BY 4.0 license text |
+| `raw/` | Original source files, unmodified, for traceability |
+| `processed/` | Cleaned and structured text, ready for RAG and NLP use |
+| `LICENSE.md` | CC BY 4.0 license text |
 
 ## Processing method
 
@@ -41,7 +38,7 @@ The preprocessed dataset in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 license.
 
-See [LICENSE](LICENSE) for the full text.
+See [LICENSE.md](LICENSE.md) for the full text.
 
 This license applies to the original contributions in the dataset,
 including its preprocessing and structuring. It does not claim
