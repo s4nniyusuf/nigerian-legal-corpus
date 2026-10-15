@@ -1,5 +1,5 @@
 # nigerian-law-corpus
-A curated corpus of Nigerian legal texts, including the 1999 Constitution, selected Acts and Lagos tenancy law cleaned and structured for information retrieval, RAG, semantic search, and legal NLP
+A curated corpus of Nigerian legal texts, including the 1999 Constitution, selected Acts and Lagos tenancy law cleaned and structured for information retrieval, RAG, semantic search, and legal NLP.
 
 ## Repository Structure
 
