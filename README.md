@@ -1,8 +1,8 @@
 # nigerian-law-corpus
-A curated corpus of Nigerian legal texts, including the 1999 Constitution and selected Acts, cleaned and structured for information retrieval, RAG, semantic search, and legal NLP
+A curated corpus of Nigerian legal texts, including the 1999 Constitution, selected Acts and Lagos tenancy law cleaned and structured for information retrieval, RAG, semantic search, and legal NLP
 
 ## Repository Structure
-
+ 
 ```
 nigerian-law-corpus/
 ├── README.md
@@ -24,7 +24,7 @@ nigerian-law-corpus/
 
 ## Processing method
 
-The processed data was produced by extracting text from the source PDFs. Where a PDF did not contain machine-readable text, OCR (optical character recognition) was used.
+The processed data was produced by extracting text from the source PDFs.
 
 ## Sources
 **Constitution** - [Food and Agricultural Organisation ](https://faolex.fao.org/docs/pdf/nig164561.pdf)
