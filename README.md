@@ -33,6 +33,8 @@ The processed data was produced by extracting text from the source PDFs. Where a
 
 **Criminal Code Act** - [Policy and Legal Advocacy Centre](https://placng.org/i/acts/) (*here the schedule is the criminal code*)
 
+**Lagos Tenancy law** - [Lagos Ministry of Justice](https://lagosministryofjustice.org/)
+
 ## License
 
 The preprocessed dataset in this repository is licensed under the
